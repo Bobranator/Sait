@@ -1,7 +1,42 @@
 body{
-    background-color:#56026E;
+    background-color: lightblue;
     margin: 0px;
-    display: flex;
+}
+.containerOne{
+    background-color: yellow;
+    border-radius: 10px;
+    height: 500px;
+    margin-top: 200px;
+}
+#textOne{
+    font-size: 90px;
+    margin-left: 45%;
+}
+#textTwo{
+    font-size: 40px;
+    margin-top: -100px;
+}
+#textThree{
+    font-size: 40px;
+    
+}
+#textFour{
+    font-size: 90px;
+    margin-left: 35%;
+    margin-top: -10px;
+}
+#textFive{
+    font-size: 40px;
+}
+.footerOne{
+    background-color: lightgreen;
+    height: 200px;
+    margin-top: -400px;
+}
+#textSix{
+    font-size: 40px;
+    margin-top: 500px;
+    margin-left: 40%;
 }
 header{
     justify-content: space-around;
