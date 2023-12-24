@@ -85,3 +85,15 @@ header{
     width:  30%;
     background-color: #589800;
 }
+.footerLink{
+    margin-left: 5%;
+    font-size: 30px;
+}
+.footerLinkTwo{
+    margin-left: 15%;
+    font-size: 30px;
+}
+.footerLinkThree{
+    margin-left: 20%;
+    font-size: 30px;
+}
