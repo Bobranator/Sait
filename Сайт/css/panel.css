@@ -1,0 +1,64 @@
+html{
+    height: 100%;
+    background:linear-gradient(135deg,rgba(6,147,227,1) 0%,#9b51e0 50%);
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+header{
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    
+}
+.text_space{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*.sait_naem{
+    
+}*/
+.navigation_pane{
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    width:  100%;
+    background-color: #B23AD4;
+}
+.button_AIF{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width: 30%;
+    background-color: #589800;
+}
+.button_Sasha{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width:  30%;
+    background-color: #589800;
+}
+.button_news{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width:  30%;
+    background-color: #589800;
+}
+.personal-panel{
+    height: 500px;
+    width: 100%;
+    background-color: #589800;
+    margin-top: 10px;
+    border-radius: 30px;
+}
