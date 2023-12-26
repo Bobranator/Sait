@@ -1,49 +1,13 @@
 body{
-    background-color: lightblue;
+    background-color:#56026E;
     margin: 0px;
-}
-.containerOne{
-    background-color: yellow;
-    border-radius: 10px;
-    height: 500px;
-    margin-top: 200px;
-}
-#textOne{
-    font-size: 90px;
-    margin-left: 45%;
-}
-#textTwo{
-    font-size: 40px;
-    margin-top: -100px;
-}
-#textThree{
-    font-size: 40px;
-    
-}
-#textFour{
-    font-size: 90px;
-    margin-left: 35%;
-    margin-top: -10px;
-}
-#textFive{
-    font-size: 40px;
-}
-.footerOne{
-    background-color: lightgreen;
-    height: 200px;
-    margin-top: -400px;
-}
-#textSix{
-    font-size: 40px;
-    margin-top: 500px;
-    margin-left: 40%;
+    display: block;
 }
 header{
     justify-content: space-around;
     align-items: center;
-    height: auto;
+    height: 100px;
     width: 100%;
-    
 }
 .sait_naem{
     text-align: center;
@@ -58,22 +22,13 @@ header{
     width:  100%;
     background-color: #B23AD4;
 }
-.button_AIF{
+.buttonGlav{
     display: flex;
     justify-content: space-around;
     align-items: center;
     border-radius: 30px;
     height: 90%;
     width: 30%;
-    background-color: #589800;
-}
-.button_Sasha{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border-radius: 30px;
-    height: 90%;
-    width:  30%;
     background-color: #589800;
 }
 .button_news{
@@ -85,24 +40,47 @@ header{
     width:  30%;
     background-color: #589800;
 }
-.footerLink{
-    margin-left: 5%;
-    font-size: 30px;
+.button_AIF{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width:  30%;
+    background-color: #589800;
 }
-.footerLinkTwo{
-    margin-left: 15%;
-    font-size: 30px;
-}
-.footerLinkThree{
-    margin-left: 20%;
-    font-size: 30px;
-}
-.AIFLink{
-    font-size: 30px;
+.NewsPage{
+    font-size: 25px;
 }
 .GlavPage{
     font-size: 30px;
 }
-.Sasha{
+.SashaBody{
+    background-color: pink;
+    height: 100px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+.PhotoSasha{
+    background-image: url(../1646419982_3-kartinkin-net-p-kartinki-na-avu-lyagushki-3.jpg);
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 50px;
+    margin-right: 300px;
+    margin-top: 10px;
+    
+}
+#textSeven{
+    font-size: 60px;
+   margin-left: 50%;
+}
+.AIFLink{
     font-size: 30px;
+}
+.FooterSasha{
+    background-color: pink;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 780px;
 }
