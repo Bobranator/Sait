@@ -1,0 +1,52 @@
+body{
+    background-color:#56026E;
+    margin: 0px;
+    display: flex;
+}
+header{
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    
+}
+.sait_naem{
+    text-align: center;
+    display: flex;
+}
+.navigation_pane{
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    width:  100%;
+    background-color: #B23AD4;
+}
+.button_AIF{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width: 30%;
+    background-color: #589800;
+}
+.button_Sasha{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width:  30%;
+    background-color: #589800;
+}
+.button_news{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width:  30%;
+    background-color: #589800;
+}
