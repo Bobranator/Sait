@@ -1,0 +1,86 @@
+body{
+    background-color:#56026E;
+    margin: 0px;
+    display: block;
+}
+header{
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+}
+.sait_naem{
+    text-align: center;
+    display: flex;
+}
+.navigation_pane{
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    width:  100%;
+    background-color: #B23AD4;
+}
+.buttonGlav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width: 30%;
+    background-color: #589800;
+}
+.button_news{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width:  30%;
+    background-color: #589800;
+}
+.button_AIF{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+    height: 90%;
+    width:  30%;
+    background-color: #589800;
+}
+.NewsPage{
+    font-size: 25px;
+}
+.GlavPage{
+    font-size: 30px;
+}
+.SashaBody{
+    background-color: pink;
+    height: 100px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+.PhotoSasha{
+    background-image: url(../1646419982_3-kartinkin-net-p-kartinki-na-avu-lyagushki-3.jpg);
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 50px;
+    margin-right: 300px;
+    margin-top: 10px;
+    
+}
+#textSeven{
+    font-size: 60px;
+   margin-left: 50%;
+}
+.AIFLink{
+    font-size: 30px;
+}
+.FooterSasha{
+    background-color: pink;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 780px;
+}
