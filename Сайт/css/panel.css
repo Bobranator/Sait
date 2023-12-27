@@ -4,6 +4,7 @@ html{
     background:linear-gradient(135deg,rgba(6,147,227,1) 0%,#9b51e0 40%);
     background-repeat: no-repeat;
     margin: 0px;
+    height: 100%;
 }
 .test{
     font-family: 'Titillium Web'; 
