@@ -62,11 +62,11 @@ header{
     border-radius: 20px;
 }
 .PhotoSasha{
-    background-image: url(../1646419982_3-kartinkin-net-p-kartinki-na-avu-lyagushki-3.jpg);
+    background-image: url(../199714865-cute-cartoon-frog-on-green-background-vector-illustration-for-your-design.jpg);
     height: 100px;
     width: 100px;
     background-color: aqua;
-    border-radius: 50px;
+    border-radius: 100px;
     margin-right: 300px;
     margin-top: 10px;
     
@@ -82,5 +82,18 @@ header{
     background-color: pink;
     height: 100px;
     border-radius: 20px;
-    margin-top: 780px;
+    margin-top: 145px;
+}
+.footerLink{
+    font-size: 30px;
+    margin-left: 10px;
+}
+.textsasha{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.sashaTextmain{
+    margin-left: 300px;
+    margin-top: -100px;
+    font-size: 20px;
 }
