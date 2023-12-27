@@ -1,0 +1,21 @@
+#AIF-photo{
+    height: 400px;
+    border-radius: 50%;
+}
+.name-space{
+    display: flex;
+}
+.name{
+    font-family: 'Lobster'; 
+	font-size: 50px;
+}
+.flex{
+    display: flex;
+}
+#ak-photo{
+    display: flex;
+}
+.aK-photo{
+    width: 300px;
+    margin: 30px;
+}
